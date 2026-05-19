@@ -1,0 +1,76 @@
+[
+    {
+    "id": 1,
+    "name": "Men T-Shirt",
+    "category": "men",
+    "type": "shirt",
+    "price": 500,
+    "image": "https://images.openai.com/thumbnails/url/4w5aZHicDcn_EoEwAADgJ6ocrjN3ziWTi7REyT-OsVrZj2xib-V1vA3fv9_3U2kt1dhxbhw_jNS3q6UvvG-XSp81xTYWzFGVkJLyctpO_jf2NlcQ4IQwOHR7McpSetmTBvIVo2s8F9swS3lGcvCOmIvq1atQrTRJIILuuGhOszjrwpFbWCCHu7qvyzxtvQNfdupJvIcfxpZ_AhG--wNTkWKDetwk7_l5h14AEuJ7P8VSPw8"
+    },
+    {
+    "id": 2,
+    "name": "Men Jeans",
+    "category": "men",
+    "type": "jeans",
+    "price": 1200,
+    "image": "https://images.openai.com/thumbnails/url/MPqStnicDcnhDkJAAADgJ0I6S2ytMXVZiWqW-mPdHUfFHe4oD9X79Db1_f2-n0II3tmaltW4fXOREUWgeqLSTtxEiVXMKq0rGOdlTZfN4n-2sycWxEdwOd2LfKW0gsPKsCAF3mx041MWwHVfoz5JyWM0aDQQd_RkgK_FzpoC3QNJ80J-lNLVnOmkP2JHtCEYDIp2id9Ia2ZucmcITcbjuMvhZPs6pLJan5GuPOUPJF0-Cw"
+    },
+    {
+    "id": 3,
+    "name": "Men Shoes",
+    "category": "men",
+    "type": "shoes",
+    "price": 2000,
+    "image": "https://images.openai.com/thumbnails/url/aW8vSXicDcnbDoIgAADQL8pbKdrWmuuCLZdWzvKpCRhoiShk5V_1Of1Nndfz_TClhJzqesFx9xaqICOFuKlRqXJVYg03tS5ZI0TJ6byd_W_q74gH8WGPvOBY21ebE7DgQ0JXRrppAQ2XzAEpqxwQxF0PUHiWtYgy003GE1ra1gDc9BWRPjNjvuiKR8Mv0LBigGFerQkebrWPelsZ7Gm6mXH3TsHKz5JtJXMEYwL3P5eaPgk"
+    },
+
+    {
+    "id": 4,
+    "name": "Women Top",
+    "category": "women",
+    "type": "shirt",
+    "price": 700,
+    "image": "https://images.openai.com/thumbnails/url/6V2Rb3icDcnbEoFAAADQL6JGkZoxJpNFEqHEi7EXbWbadttNl4_yP_6G83q-H6oUl46mEYaqjiuCBwoyfZhJ9VA5GqKy0CQtOc9ZNhez_zluiO0VOurJWUFrqpf6CxN4oUbaw2rAK7ePYvL2E6tBcn8u5AOM-sBc0D2vli0VhrlF3Q14gWS-Pa0xa9cYPuuNhw4ZwCGI7yybNFxEp3jcBtfbykrFOucJqMlOND9kLD99"
+    },
+    {
+    "id": 5,
+    "name": "Women Jeans",
+    "category": "women",
+    "type": "jeans",
+    "price": 1400,
+    "image": "https://images.openai.com/thumbnails/url/jtJAe3icDcnxDkJAHADgJ8JINrbWkChjJZP807jDyTknP5Ueq7fpber79_t-CAAfDUkqGbrPHEosQMEWYj1CDg0SUd9JI-k5b1i9Hlb_M8wQ6y6KbHxgd3nSKr8IWWKlF3rdmlC-HzhqUzOxtWgoRt_ysqnK1FB_5Sefl27s6DIONkQ-7jraUaI6HcufC2FZsdo_v2g2C4FC0a0WTm8wUWG1Huh8uLTNpMZzstcU8gNTYEAm"
+    },
+    {
+    "id": 6,
+    "name": "Women Heels",
+    "category": "women",
+    "type": "shoes",
+    "price": 2500,
+    "image": "https://images.openai.com/thumbnails/url/ob2wRnicDcndCoIwGADQJ1pGJfkFEaGUmY6sWLq7mr-Yc7qpzIfqfXqbOrfn-ymUEnJjGClnnRYqTZB68cUsl-qpSjZjTW3IohGi5Pmu3f5vs8cJHFkIdZa1Ls5i7HScoBVIpNPOjPy8QZUdCnKGyJ0cy8t4fz0ACygi3lJiqyBkMGXZToF-rwFO5NSzIXLp847tm0Uu461a9FB2VKyjeXyfHpeAa5qM9uAffhi_PiY"
+    },
+
+    {
+    "id": 7,
+    "name": "Kids T-Shirt",
+    "category": "kids",
+    "type": "shirt",
+    "price": 300,
+    "image": "https://images.openai.com/thumbnails/url/r4l5rHicDclJDoIwAADAFyllsQESY4gKiixKQBsvhKVKtZRKi9ur_I6_0bnO99NIyYWtKJhV_YtLXI9kydTxWchCkmpcda0imo5zws6z2_R_thPVllclKG7rOUSSG0CQzfsY-b7WPINeLwOQ5-vejDQD1gef5io0TgPh6UBfdI08xOg-RSTUXVRA3IZwqWZMRmBlJtnWzcxlrOEJQKlzeneOfr1fMAXbRCwa8hDW7gdtPj3K"
+    },
+    {
+    "id": 8,
+    "name": "Kids Shorts",
+    "category": "kids",
+    "type": "jeans",
+    "price": 400,
+    "image": "https://images.openai.com/thumbnails/url/V-dlcHicDcndDoIgGADQJ0rRWs221nJaTk2cWdZVC1DBihC-1s9D9T69TZ3b8_1wAGWmtl1Lql8KajYAIpHVGjiBoBa9XW3Db0oJ2c772f-mi4x5K1qOOW6IQKQ3buWX_FgMWfwMV95l1Bu9p-Oz6153uccwSsOAv4tyEiUHPygyx1leEkHQY-hs-fv48rl-FtClHd5gAlLg0RapZoGakO7qeO1WUYtzJe8cYf0D8To9ew"
+    },
+    {
+    "id": 9,
+    "name": "Kids Shoes",
+    "category": "kids",
+    "type": "shoes",
+    "price": 800,
+    "image": "//cdn.fcglcdn.com/brainbees/images/products/583x720/22216660a.webp"
+    }
+]
